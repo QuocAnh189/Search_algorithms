@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Documents\Nghiêng Cứu Khoa Học\Các Thuật Toán Tìm Kiếm\Tìm Kiếm Tuyến Tính\Source.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tìm Kiếm Tuyến Tính.vcxproj -> C:\Documents\Nghiêng Cứu Khoa Học\Các Thuật Toán Tìm Kiếm\x64\Debug\Tìm Kiếm Tuyến Tính.exe

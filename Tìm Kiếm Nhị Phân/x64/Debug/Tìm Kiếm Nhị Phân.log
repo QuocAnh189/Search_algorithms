@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Documents\Nghiêng Cứu Khoa Học\Các Thuật Toán Tìm Kiếm\Tìm Kiếm Nhị Phân\Source.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tìm Kiếm Nhị Phân.vcxproj -> C:\Documents\Nghiêng Cứu Khoa Học\Các Thuật Toán Tìm Kiếm\x64\Debug\Tìm Kiếm Nhị Phân.exe
